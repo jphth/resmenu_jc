@@ -1,0 +1,102 @@
+
+
+body {
+    background-image: url('background.png');
+  }
+
+header {
+    
+    background-image: url('banner.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    font: lighter 25px 'Open Sans', sans-serif;
+
+  
+    
+    text-align:center;
+    
+    color: white;
+    padding: 5em;
+}
+
+
+/*Appetizers Styling Section*/
+.appetizers h1{
+    color: #66cc66;
+    text-align: center;
+    font: lighter 40px 'Open Sans', sans-serif;
+}
+
+.appetizers dl {
+    margin-left: 30em;
+}
+
+.appetizers dt {
+    color: #333333;
+    font:  20px 'Open Sans', sans-serif;
+    padding: 5px;
+}
+
+.appetizers dd {
+    color: #333333;
+    font:  15px 'Open Sans', sans-serif;
+}
+
+
+/*Main Dish Styling Section*/
+.maindish h1{
+    color: #66cc66;
+    text-align: center;
+    font: lighter 40px 'Open Sans', sans-serif;
+}
+
+.maindish dl {
+    margin-left: 30em;
+}
+
+
+.maindish dt {
+    color: #333333;
+    font:  20px 'Open Sans', sans-serif;
+    padding: 5px;
+}
+
+.maindish dd {
+    color: #333333;
+    font:  15px 'Open Sans', sans-serif;
+}
+
+
+/*Dessert Styling Section*/
+.dessert h1{
+    color: #366b36;
+    text-align: center;
+    font: lighter 40px 'Dancing Script', sans-serif;
+}
+
+.dessert dl {
+    margin-left: 30em;
+}
+
+.dessert dt {
+    color: #366b36;
+    font:  20px 'Dancing Script', sans-serif;
+    padding: 5px;
+}
+
+.dessert dd {
+    color: #366b36;
+    font:  15px 'Dancing Script', sans-serif;
+}
+
+footer {
+    border-top: 2px solid black;
+    text-align: end ;
+    margin-top: 5em;
+
+}
+
+div {
+    font: italic 15px 'Open Sans', sans-serif;
+}
