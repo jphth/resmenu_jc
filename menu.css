@@ -1,4 +1,6 @@
-
+#leaf {
+    text-align: center;
+}
 
 body {
     background-image: url('background.png');
@@ -9,6 +11,7 @@ header {
     background-image: url('banner.jpg'); 
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     
     font: lighter 25px 'Open Sans', sans-serif;
 
@@ -20,6 +23,12 @@ header {
     padding: 5em;
 }
 
+#menu_title {
+    font: lighter 2.5em 'Open Sans', sans-serif;
+    padding-top: 85px;
+    padding-bottom: 25px;
+      
+}
 
 /*Appetizers Styling Section*/
 .appetizers h1{
